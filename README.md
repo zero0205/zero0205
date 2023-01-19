@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1100FF,100:FF00FF&height=225&section=header&text=ZERO0205&fontColor=d6ace6&fontSize=90)
 
 <div  align=center>
@@ -8,7 +7,7 @@
 <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
 <img  src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
 <img  src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
-<img  src="https://img.shields.io/badge/C++-A8B9CC?logo=C++&logoColor=white">
+<img  src="https://img.shields.io/badge/C++-A8B9CC?logo=c%2B%2B&logoColor=white">
 
 <img  src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
 <img  src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
@@ -18,21 +17,20 @@
 <img  src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
 
 # :tangerine: Tools
+
 <img  src="https://img.shields.io/badge/VSCode-007ACC?logo=Visual Studio Code&logoColor=white">
 <img  src="https://img.shields.io/badge/PyCharm-3DEA62?logo=PyCharm&logoColor=white">
 <img  src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white">
 
-  
 # :grapes: Solved.ac
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zero0205)](https://solved.ac/zero0205)
 
-  
-
 <!-- GitHub stats -->
 
 # :pineapple: GitHub stats
+
 <p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero0205&show_icons=true&theme=radical)
@@ -40,8 +38,8 @@
 
 </p>
 
-
 # :melon: Blog
+
 <a href="https://zero0205.tistory.com/">
     <img  src="https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=white">
 </a>
