@@ -23,7 +23,7 @@
 <img  src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white">
 
   
-# :grapes: Solved.ac
+# :grapes: Problem Solving
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zero0205)](https://solved.ac/zero0205)
