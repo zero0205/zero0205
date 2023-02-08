@@ -43,7 +43,7 @@
 <a href="https://zero0205.tistory.com/">
     <img  src="https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=white">
 </a>
-<a href="https://www.notion.so/zero0205/ZERO0205-9394f486cb394e179dad78ae9465c170">
+<a href="https://www.notion.so/zero0205/ZERO0205-2b83c6d56d2142a3b50dfec3cb351caa">
     <img  src="https://img.shields.io/badge/Notion-FFA500?logo=Notion&logoColor=white">
 </a>
 
