@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1100FF,100:FF00FF&height=225&section=header&text=ZERO0205&fontColor=d6ace6&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1100FF,100:FF00FF&height=225&section=header&text=Baek_Jiyeon&fontColor=d6ace6&fontSize=90)
 
 <div  align=center>
 
