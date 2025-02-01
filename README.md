@@ -5,6 +5,7 @@
 # :lemon: Tech Stack
 
 <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+<img  src="https://img.shields.io/badge/typescript-3178C6?logo=Typescript&logoColor=white">
 <img  src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
 <img  src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
 <img  src="https://img.shields.io/badge/C++-A8B9CC?logo=c%2B%2B&logoColor=white">
@@ -20,7 +21,10 @@
 
 <img  src="https://img.shields.io/badge/VSCode-007ACC?logo=Visual Studio Code&logoColor=white">
 <img  src="https://img.shields.io/badge/PyCharm-3DEA62?logo=PyCharm&logoColor=white">
+<br/>
+<img  src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white">
 <img  src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white">
+<img  src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white">
 
 # :grapes: Problem Solving
 
@@ -40,11 +44,12 @@
 
 # :melon: Blog
 
-<a href="https://zero0205.tistory.com/">
-    <img  src="https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=white">
+<a href="https://zero0205.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?logo=Tistory&logoColor=white">
 </a>
-<!-- <a href="https://www.notion.so/zero0205/ZERO0205-2b83c6d56d2142a3b50dfec3cb351caa">
-    <img  src="https://img.shields.io/badge/Notion-FFA500?logo=Notion&logoColor=white">
-</a> -->
+&nbsp
+<a href="https://www.notion.so/zero0205/189b06876ef0806c8b22f3ac9c609de4">
+    <img src="https://img.shields.io/badge/학습 정리 Notion-FFA500?logo=Notion&logoColor=white">
+</a>
 
 </div>
